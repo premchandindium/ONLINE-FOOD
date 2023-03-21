@@ -1,1 +1,2 @@
-# food-zone
+# FoodZone
+Food restaurant website
